@@ -1,0 +1,23 @@
+{
+  "name": "ask-nasa-javascript-ptrbrnr",
+  "version": "1.0.0",
+  "description": "With the JavaScript fetch API based \"GET request\" you can connect to publicly available servers and get structured data. \r Did you know that NASA has a lot of open API?\r In this project you will start working with an open API and requesting data from the NASA API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/ask-nasa-javascript-PTRBRNR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/ask-nasa-javascript-PTRBRNR/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/ask-nasa-javascript-PTRBRNR#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
